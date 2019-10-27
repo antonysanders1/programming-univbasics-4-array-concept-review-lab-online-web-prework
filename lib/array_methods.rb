@@ -13,7 +13,7 @@ def find_element_index(array, value_to_find)
   
 #  found_index
   
-  array.found_index(value_to_find)
+array.find_index(value_to_find)
   
 end
 

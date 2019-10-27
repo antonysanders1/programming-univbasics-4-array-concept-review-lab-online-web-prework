@@ -9,9 +9,10 @@ def find_element_index(array, value_to_find)
     
     
 #    counter += 1
-  end
+#  end
   
-  found_index
+#  found_index
+  
   
   
 end

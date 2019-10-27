@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   
-  found_index = 0
+  found_index = 2
   #nil #initialize a found_index variable
   counter = 0
   
